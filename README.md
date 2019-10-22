@@ -12,7 +12,7 @@ the course web site:
 
 * Filtering for the required dates 2007-02-01 and 2007-02-02 result in xxx
 
-* Date and Time variables were converted to Proixt and added as a column named datetime.
+* Date and Time variables were converted to Proixt and added as a column named datetime
 
 ## Plotting Information
 

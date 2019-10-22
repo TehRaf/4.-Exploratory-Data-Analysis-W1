@@ -2,7 +2,7 @@ library(readr)
 library(dplyr)
 library(lubridate)
 power <- read.csv("./data/household_power_consumption.txt", header = TRUE, sep = ";")
-# Read file of 2075259 obs and of 9 variables
+# Read file of 2075259 obs and of 9 variables.
 
 power$Date <- dmy(power$Date) # changing the format of Date columns
 
